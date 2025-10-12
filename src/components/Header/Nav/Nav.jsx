@@ -1,5 +1,5 @@
 import "./Nav.css";
-import logo from '../../images/white-logo.png';
+import logo from '../../../images/white-logo.png';
 import { FaSearch } from 'react-icons/fa';
 
 export default function Nav() {

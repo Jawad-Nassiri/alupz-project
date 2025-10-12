@@ -1,0 +1,28 @@
+.stat-box-container {
+  width: 100%;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+
+.stat-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+
+.value {
+  font-size: 69px;
+  font-weight: 600;
+  color: #a234fd;
+  display: flex;
+}
+
+.label {
+  color: #fff;
+  font-size: 19px;
+}

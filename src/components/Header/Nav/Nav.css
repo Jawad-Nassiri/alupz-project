@@ -1,8 +1,10 @@
 .container {
   width: 100%;
-  padding: 30px 60px;
+  padding: 20px 60px;
   position: sticky;
   top: 0;
+  background: #000c1c;
+  z-index: 999;
 }
 
 .nav {
@@ -10,6 +12,7 @@
   align-items: center;
   justify-content: space-around;
   height: 80px;
+
 }
 
 .nav .logo img {
