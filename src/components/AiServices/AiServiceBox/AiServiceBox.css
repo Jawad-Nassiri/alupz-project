@@ -1,0 +1,69 @@
+.AiService-box {
+  width: calc(33.333% - 20px);
+  background: #121923;
+  border-radius: 15px;
+  padding: 24px 19px 10px 19px;
+  border: 1px solid #1d1d1d;
+}
+
+.AiService-box__img {
+  height: 300px;
+  width: 380px;
+  border-radius: 15px;
+}
+
+.AiService-box__content {
+  margin-top: 15px;
+}
+
+.AiService-box__title {
+  font-size: 22px;
+}
+
+.AiService-box__link {
+  text-decoration: none;
+  color: #fff;
+  transition: all 0.4s ease;
+}
+
+.AiService-box__link:hover {
+  color: #a234fd;
+}
+
+
+.AiService-box__desc {
+  margin: 15px 0 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #fff;
+}
+
+.AiService-box__text {
+  width: 60%;
+  line-height: 25px;
+}
+
+.AiService-box__desc-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #a234fd;
+    color: #fff;
+    width: 51px;
+    height: 51px;
+    line-height: 51px;
+    border-radius: 50%;
+    transition: all 0.4s ease;
+}
+
+
+.AiService-box__desc-link:hover {
+    background: #8e1fdc;
+}
+
+.AiService-box__desc-link:hover svg {
+    transform: translateX(4px) scale(1.2);
+    transition: transform 0.3s ease;
+}
+
