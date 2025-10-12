@@ -1,0 +1,20 @@
+.features-box {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 20px;
+}
+
+.features-box__img {
+  width: 64px;
+}
+
+.features-box__title {
+  font-size: 19px;
+  margin-bottom: 7px;
+}
+
+.features-box__text {
+  color: #fff;
+  font-size: 18px;
+}
