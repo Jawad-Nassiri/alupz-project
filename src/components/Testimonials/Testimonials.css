@@ -1,0 +1,38 @@
+.testimonials-container {
+  background-size: cover;
+  background-position: center;
+  height: 800px;
+  position: relative;
+}
+
+.testimonials-container::before {
+  content: "";
+  position: absolute;
+  z-index: 9;
+  background-color: rgb(0, 0, 0, 0.5);
+  height: 100%;
+  width: 100%;
+}
+
+.testimonials-section {
+  width: 1300px;
+  margin: 0 auto;
+  padding: 120px 0;
+  position: relative;
+  z-index: 10;
+}
+
+.testimonials-section__title {
+  color: #fff;
+  font-size: 40px;
+  width: 450px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.testimonial-box-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 110px;
+}
