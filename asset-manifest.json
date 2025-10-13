@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/alupz/static/css/main.259bb5f9.css",
+    "main.js": "/alupz/static/js/main.78ccd5ce.js",
+    "static/js/453.74755cd4.chunk.js": "/alupz/static/js/453.74755cd4.chunk.js",
+    "static/media/header-subbanner.jpg": "/alupz/static/media/header-subbanner.482cb555fc4540d1a8ac.jpg",
+    "static/media/testimonial-banner.jpg": "/alupz/static/media/testimonial-banner.4b0fe3d17bc928ce3a17.jpg",
+    "static/media/portfolio-2.jpg": "/alupz/static/media/portfolio-2.140d0a733c1688fe195b.jpg",
+    "static/media/header-banner.jpg": "/alupz/static/media/header-banner.5b24535952a111542d54.jpg",
+    "static/media/member2.jpg": "/alupz/static/media/member2.776aef8c7d19624325a1.jpg",
+    "static/media/portfolio-3.jpg": "/alupz/static/media/portfolio-3.b96d9748aa5b090e2a04.jpg",
+    "static/media/member3.jpg": "/alupz/static/media/member3.aec0dd88f9a567c9f54a.jpg",
+    "static/media/portfolio-1.jpg": "/alupz/static/media/portfolio-1.9192988ec34341bc10e8.jpg",
+    "static/media/member4.jpg": "/alupz/static/media/member4.ad00902e5d34746c9eed.jpg",
+    "static/media/about-us-1.jpg": "/alupz/static/media/about-us-1.3f18c79a74fdb9db596f.jpg",
+    "static/media/AI-Data-Analytics.jpg": "/alupz/static/media/AI-Data-Analytics.61580f7b48da157e5e4f.jpg",
+    "static/media/AI-Development.jpg": "/alupz/static/media/AI-Development.3424df02e15f8c4f81fa.jpg",
+    "static/media/AI-Driven-Automation.jpg": "/alupz/static/media/AI-Driven-Automation.fae2f336b5e92a4c896b.jpg",
+    "static/media/AI-Chatbots.jpg": "/alupz/static/media/AI-Chatbots.c07ad64f11d9b53fa8e6.jpg",
+    "static/media/AI-Integration.jpg": "/alupz/static/media/AI-Integration.ba448fe42e9c17d346d0.jpg",
+    "static/media/AI-Design-Mystery-1.jpg": "/alupz/static/media/AI-Design-Mystery-1.0ab5b9f8087fb7b91263.jpg",
+    "static/media/profile1.png": "/alupz/static/media/profile1.85fbb7e84a40643fcfa1.png",
+    "static/media/profile2.png": "/alupz/static/media/profile2.471d3dacbfaaefe777dc.png",
+    "static/media/profile3.webp": "/alupz/static/media/profile3.9f40cbc8477701e12c42.webp",
+    "static/media/member1.webp": "/alupz/static/media/member1.fc647d051464b4007fe0.webp",
+    "index.html": "/alupz/index.html",
+    "main.259bb5f9.css.map": "/alupz/static/css/main.259bb5f9.css.map",
+    "main.78ccd5ce.js.map": "/alupz/static/js/main.78ccd5ce.js.map",
+    "453.74755cd4.chunk.js.map": "/alupz/static/js/453.74755cd4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.259bb5f9.css",
+    "static/js/main.78ccd5ce.js"
+  ]
+}
