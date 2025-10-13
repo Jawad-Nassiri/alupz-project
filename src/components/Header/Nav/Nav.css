@@ -35,6 +35,10 @@
   border-radius: 25px;
 }
 
+.nav-link.active {
+  background-color: #a234fd;
+}
+
 .nav-link:hover {
   cursor: pinter;
   background-color: #a234fd;

@@ -2,7 +2,7 @@ import Header from "./components/Header/Header";
 import Stats from "./components/Stats/Stats";
 import AiServices from "./components/AiServices/AiServices";
 import Approach from "./components/Approach/Approach";
-
+import Introduction from "./components/Introduction/Introduction";
 
 export default function App() {
   return (
@@ -11,6 +11,7 @@ export default function App() {
       <Stats />
       <AiServices />
       <Approach />
+      <Introduction />
     </div>
   );
 }

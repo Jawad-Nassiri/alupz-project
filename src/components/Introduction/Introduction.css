@@ -1,0 +1,38 @@
+.introduction-container {
+    width: 100%;
+    background: #050a17;
+    padding: 80px 0;
+}
+
+.introduction-section {
+    max-width: 1300px;
+    margin: 0 auto;
+}
+
+.introduction-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #fff;
+    gap: 10px;
+}
+
+.introduction-header__title {
+    font-size: 37px;
+}
+
+.introduction-header__text {
+    text-align: justify;
+        font-size: 18px;
+    line-height: 34px;
+    color: #FFFFFF;
+    width: 600px;
+}
+
+.introduction-boxes-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+    margin-top: 40px;
+}

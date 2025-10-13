@@ -11,7 +11,7 @@ export default function Nav() {
               </div>
               <div className="list">
                   <ul className="nav-list">
-                      <li className="nav-item"><a href="#" className="nav-link">Home</a></li>
+                      <li className="nav-item"><a href="#" className="nav-link active">Home</a></li>
                       <li className="nav-item"><a href="#" className="nav-link">About</a></li>
                       <li className="nav-item"><a href="#" className="nav-link">Services</a></li>
                       <li className="nav-item"><a href="#" className="nav-link">Pages</a></li>
