@@ -5,6 +5,7 @@ import Approach from "./components/Approach/Approach";
 import Introduction from "./components/Introduction/Introduction";
 import Testimonials from "./components/Testimonials/Testimonials";
 import Team from "./components/Team/Team";
+import ContactUs from "./components/ContactUs/ContactUs";
 
 export default function App() {
   return (
@@ -15,7 +16,9 @@ export default function App() {
       <Approach />
       <Introduction />
       <Testimonials />
-      <Team/>
+      <Team />
+      <ContactUs />
+      
     </div>
   );
 }
