@@ -1,0 +1,27 @@
+.team-container {
+    background: #050a17;
+    width: 100%;
+}
+
+.team-section {
+    max-width: 1300px;
+    padding: 100px 0;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.team-section__title {
+    color: #fff;
+    font-size: 40px;
+    width: 450px;
+    text-align: center;
+}
+
+.team-box__container {
+    display: flex;;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
