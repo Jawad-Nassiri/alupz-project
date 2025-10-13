@@ -6,6 +6,7 @@ import Introduction from "./components/Introduction/Introduction";
 import Testimonials from "./components/Testimonials/Testimonials";
 import Team from "./components/Team/Team";
 import ContactUs from "./components/ContactUs/ContactUs";
+import Footer from "./components/Footer/Footer";
 
 export default function App() {
   return (
@@ -18,7 +19,7 @@ export default function App() {
       <Testimonials />
       <Team />
       <ContactUs />
-      
+      <Footer/>
     </div>
   );
 }
