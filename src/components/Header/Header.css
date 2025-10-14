@@ -3,4 +3,23 @@
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+  overflow-x: hidden;
+}
+
+.header__menu-icon {
+  color: #fff;
+  font-size: 30px;
+  position: absolute;
+  right: 40px;
+  top: 40px;
+  cursor: pointer;
+  display: none;
+}
+
+/*! media queries start  */
+
+@media (max-width: 1024px) {
+  .header__menu-icon {
+    display: block;
+  }
 }
