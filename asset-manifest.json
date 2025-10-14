@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/alupz-project/static/css/main.259bb5f9.css",
-    "main.js": "/alupz-project/static/js/main.9cf7d9ec.js",
+    "main.css": "/alupz-project/static/css/main.2ec9061f.css",
+    "main.js": "/alupz-project/static/js/main.0f113f99.js",
     "static/js/453.74755cd4.chunk.js": "/alupz-project/static/js/453.74755cd4.chunk.js",
     "static/media/header-subbanner.jpg": "/alupz-project/static/media/header-subbanner.482cb555fc4540d1a8ac.jpg",
     "static/media/testimonial-banner.jpg": "/alupz-project/static/media/testimonial-banner.4b0fe3d17bc928ce3a17.jpg",
@@ -24,12 +24,12 @@
     "static/media/profile3.webp": "/alupz-project/static/media/profile3.9f40cbc8477701e12c42.webp",
     "static/media/member1.webp": "/alupz-project/static/media/member1.fc647d051464b4007fe0.webp",
     "index.html": "/alupz-project/index.html",
-    "main.259bb5f9.css.map": "/alupz-project/static/css/main.259bb5f9.css.map",
-    "main.9cf7d9ec.js.map": "/alupz-project/static/js/main.9cf7d9ec.js.map",
+    "main.2ec9061f.css.map": "/alupz-project/static/css/main.2ec9061f.css.map",
+    "main.0f113f99.js.map": "/alupz-project/static/js/main.0f113f99.js.map",
     "453.74755cd4.chunk.js.map": "/alupz-project/static/js/453.74755cd4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.259bb5f9.css",
-    "static/js/main.9cf7d9ec.js"
+    "static/css/main.2ec9061f.css",
+    "static/js/main.0f113f99.js"
   ]
 }
