@@ -1,38 +1,100 @@
 .introduction-container {
-    width: 100%;
-    background: #050a17;
-    padding: 80px 0;
+  width: 100%;
+  background: #050a17;
+  padding: 80px 20px;
 }
 
 .introduction-section {
-    max-width: 1300px;
-    margin: 0 auto;
+  max-width: 1300px;
+  margin: 0 auto;
 }
 
 .introduction-header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    color: #fff;
-    gap: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #fff;
+  gap: 20px;
+  flex-wrap: wrap;
 }
 
 .introduction-header__title {
-    font-size: 37px;
+  font-size: 37px;
+  line-height: 48px;
+  font-weight: 700;
 }
 
 .introduction-header__text {
-    text-align: justify;
-        font-size: 18px;
-    line-height: 34px;
-    color: #FFFFFF;
-    width: 600px;
+  text-align: justify;
+  font-size: 18px;
+  line-height: 34px;
+  color: #fff;
+  width: 600px;
+  max-width: 100%;
 }
 
 .introduction-boxes-container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 25px;
-    margin-top: 40px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 25px;
+  margin-top: 40px;
+}
+
+
+
+/*! Responsive */
+@media (max-width: 1024px) {
+  .introduction-container {
+    padding: 80px 40px;
+  }
+
+  .introduction-header {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .introduction-header__title {
+    font-size: 32px;
+    line-height: 42px;
+  }
+
+  .introduction-header__text {
+    text-align: center;
+    width: 100%;
+    font-size: 17px;
+  }
+}
+
+@media (max-width: 768px) {
+  .introduction-container {
+    padding: 70px 20px;
+  }
+
+  .introduction-header__title {
+    font-size: 28px;
+    line-height: 38px;
+  }
+
+  .introduction-boxes-container {
+    flex-direction: column;
+    gap: 20px;
+  }
+}
+
+@media (max-width: 480px) {
+  .introduction-container {
+    padding: 60px 15px;
+  }
+
+  .introduction-header__title {
+    font-size: 24px;
+    line-height: 34px;
+  }
+
+  .introduction-header__text {
+    font-size: 16px;
+    line-height: 30px;
+  }
 }
