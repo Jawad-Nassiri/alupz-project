@@ -14,8 +14,8 @@ export default function App() {
       <Header />
       <Stats />
       <AiServices />
-      {/* <Approach />
-      <Introduction />
+      <Approach />
+      {/* <Introduction />
       <Testimonials />
       <Team />
       <ContactUs />
