@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/alupz-project/static/css/main.2ec9061f.css",
+    "main.css": "/alupz-project/static/css/main.6b26fc46.css",
     "main.js": "/alupz-project/static/js/main.0f113f99.js",
     "static/js/453.74755cd4.chunk.js": "/alupz-project/static/js/453.74755cd4.chunk.js",
     "static/media/header-subbanner.jpg": "/alupz-project/static/media/header-subbanner.482cb555fc4540d1a8ac.jpg",
@@ -24,12 +24,12 @@
     "static/media/profile3.webp": "/alupz-project/static/media/profile3.9f40cbc8477701e12c42.webp",
     "static/media/member1.webp": "/alupz-project/static/media/member1.fc647d051464b4007fe0.webp",
     "index.html": "/alupz-project/index.html",
-    "main.2ec9061f.css.map": "/alupz-project/static/css/main.2ec9061f.css.map",
+    "main.6b26fc46.css.map": "/alupz-project/static/css/main.6b26fc46.css.map",
     "main.0f113f99.js.map": "/alupz-project/static/js/main.0f113f99.js.map",
     "453.74755cd4.chunk.js.map": "/alupz-project/static/js/453.74755cd4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ec9061f.css",
+    "static/css/main.6b26fc46.css",
     "static/js/main.0f113f99.js"
   ]
 }
