@@ -1,20 +1,31 @@
 .input-box {
-    width: 270px;
-    height: 60px;
-    background: #fff;
-    border-radius: 5px;
-    overflow: hidden;
+  width: 100%; /* Each input takes full width of its column */
+  height: 60px;
+  background: #fff;
+  border-radius: 5px;
+  overflow: hidden;
 }
 
 .input-box__element {
-    width: 100%;
-    height: 100%;
-    font-size: 18px;
-    padding-left: 15px;
-    border: none;
-    outline: none;
+  width: 100%;
+  height: 100%;
+  font-size: 18px;
+  padding-left: 15px;
+  border: none;
+  outline: none;
 }
 
 .input-box__element::placeholder {
-    color: gray;
+  color: gray;
+}
+
+/* Responsive */
+@media (max-width: 480px) {
+  .input-box {
+    height: 50px;
+  }
+
+  .input-box__element {
+    font-size: 16px;
+  }
 }

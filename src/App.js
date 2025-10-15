@@ -17,9 +17,9 @@ export default function App() {
       <Approach />
       <Introduction />
       <Testimonials />
-      {/* <Team />
+      <Team />
       <ContactUs />
-      <Footer/> */}
+      {/* <Footer/> */}
     </div>
   );
 }
