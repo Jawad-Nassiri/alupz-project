@@ -1,10 +1,36 @@
 .stat-container {
-  height: 300px;
   width: 100%;
+  height: 300px;
   display: flex;
   align-items: center;
   justify-content: center;
+  gap: 100px;
   padding: 0 250px;
   background: #000c1c;
-  border-bottom: 1px solid #FFFFFF0D;
+  border-bottom: 1px solid #ffffff0d;
+}
+
+/*! media queries start  */
+
+@media (max-width: 1024px) {
+  .stat-container {
+    gap: 20px;
+    padding: 0 20px;
+  }
+}
+
+@media (max-width: 768px) {
+  .stat-container {
+    flex-wrap: wrap;
+    gap: 50px;
+    padding: 50px 20px;
+    height: fit-content;
+  }
+}
+
+
+
+/* 480px (mobile phones) */
+@media (max-width: 480px) {
+  /* styles here */
 }

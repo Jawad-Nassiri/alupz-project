@@ -1,5 +1,5 @@
 .stat-box-container {
-  width: 100%;
+  width: 200px;
   height: 300px;
   display: flex;
   align-items: center;
@@ -25,4 +25,13 @@
 .label {
   color: #fff;
   font-size: 19px;
+}
+
+
+/*! media queries start  */
+@media (max-width: 768px) {
+
+  .stat-box-container {
+    height: auto;
+  }
 }

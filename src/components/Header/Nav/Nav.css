@@ -107,6 +107,7 @@
 @media (max-width: 1024px) {
   .container {
     width: 270px;
+    height: 100vh;
     padding: 20px;
     padding-top: 35px;
     position: absolute;
@@ -119,7 +120,6 @@
     flex-direction: column;
     align-items: flex-start;
     justify-content: flex-start;
-    height: 100vh;
   }
 
   .nav .logo,
