@@ -19,7 +19,7 @@ export default function App() {
       <Testimonials />
       <Team />
       <ContactUs />
-      {/* <Footer/> */}
+      <Footer/>
     </div>
   );
 }
