@@ -16,8 +16,8 @@ export default function App() {
       <AiServices />
       <Approach />
       <Introduction />
-      {/* <Testimonials />
-      <Team />
+      <Testimonials />
+      {/* <Team />
       <ContactUs />
       <Footer/> */}
     </div>
